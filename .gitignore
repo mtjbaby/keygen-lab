@@ -1,0 +1,9 @@
+# 密钥绝不入库：私钥泄漏 = 任何人可签发你的 license
+keys/
+# 运行产物
+__pycache__/
+*.pyc
+serials.csv
+serials.txt
+serials.json
+names.txt
